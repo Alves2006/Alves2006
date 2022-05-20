@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alves2006               
-- 👀 I’m interested in ...
+- 👀 I’m interested in  aprender.
 - meu email  de contato é luiz.alves20@escola.pr.gov.br
-- 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+- 🌱 I’m currently learning inicio de programação.
+- 
+-
 -
